@@ -1,6 +1,7 @@
 .container{
     width: 100%;
     border: 1px solid black;
+    margin: 0 auto;
 }
 
 .container [class*='col-'] {
@@ -13,14 +14,13 @@
 
 .nested{
     background-color:lightgreen!important;
-    padding: 10px;
     text-align: center;
     line-height: 50px;
     min-height: 50px;
 }
 
 .noborder{
-    border: 0px;
+    border: 0px!important;
 }
 
 .row{
