@@ -20,6 +20,7 @@
 
 /* Columns */
 
+
 .col-xs-1{
     flex-basis: calc((100% /12) * 1);
 }
@@ -90,7 +91,4 @@
 }
 .col-xs-offset-11{
     margin-left: calc((100% /12) * 11);
-}
-.col-xs-offset-12{
-    margin-left: calc((100% /12) * 12);
 }

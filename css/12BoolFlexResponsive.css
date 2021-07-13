@@ -78,9 +78,7 @@
 .col-md-offset-11{
     margin-left: calc((100% / 12) * 11);
 }
-.col-md-offset-12{
-    margin-left: calc((100% / 12) * 12);
-}
+
 
 
 /*  >= 992px LG */
@@ -162,7 +160,4 @@
 }
 .col-lg-offset-11{
     margin-left: calc((100% / 12) * 11);
-}
-.col-lg-offset-12{
-    margin-left: calc((100% / 12) * 12);
 }

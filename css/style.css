@@ -1,0 +1,28 @@
+.container{
+    width: 100%;
+    border: 1px solid black;
+}
+
+.container [class*='col-'] {
+    background-color: blue;
+    min-height: 50px;
+    text-align: center;
+    line-height: 50px;
+    border: 1px solid white;
+}
+
+.nested{
+    background-color:lightgreen!important;
+    padding: 10px;
+    text-align: center;
+    line-height: 50px;
+    min-height: 50px;
+}
+
+.noborder{
+    border: 0px;
+}
+
+.row{
+    margin:5px;
+}
